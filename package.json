@@ -1,0 +1,16 @@
+{
+  "name": "book-server",
+  "version": "1.0.0",
+  "description": "\u001b[B\u001b服务端",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@koa/router": "^10.0.0",
+    "koa": "^2.13.1",
+    "mongoose": "^5.12.7"
+  }
+}
